@@ -1,6 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-import Card from '../../app/components/Card';
+import Card from '../app/components/Card';
 
 export default function Home() {
   return (

@@ -4,7 +4,7 @@ My aim for this project is to practice my frontend development skills in React -
 
 This is a web application that displays quotes using the QuoteGarden API (https://github.com/pprathameshmore/QuoteGarden). Users have the option to display a random quote which also states its author. The name of the author can be clicked to display more of their quotes in a list view.
 
-##Ideas to Implement in the Future
+## Ideas to Implement in the Future
 
 After the frontend has been completed, to take the project further I have a few ideas:
 

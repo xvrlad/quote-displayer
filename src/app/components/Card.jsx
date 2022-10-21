@@ -12,7 +12,7 @@ const Card = () => {
 
   return (
     <div className="flex m-24 p-24 items-center bg-lime-200">
-      <p className="flex-1 p-24 items-center justify-center">
+      <p className="flex-1 p-24 items-center justify-center text-4xl">
         Quote Here{quote}
       </p>
     </div>
